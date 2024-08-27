@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "target": "ESNext",
+      "module": "commonjs",
+      "strict": false,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "outDir": "./dist"
+    },
+    "include": ["src", "data-source.ts"],
+    "exclude": ["node_modules"]
+  }
+  

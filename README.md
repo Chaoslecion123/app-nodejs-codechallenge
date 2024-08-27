@@ -80,3 +80,14 @@ You can use Graphql;
 When you finish your challenge, after forking a repository, you **must** open a pull request to our repository. There are no limitations to the implementation, you can follow the programming paradigm, modularization, and style that you feel is the most appropriate solution.
 
 If you have any questions, please let us know.
+
+
+# Probar Proyecto
+
+1- node version 16.20.2
+2- npm install
+3- docker compose up -d
+4- validar conexion a la base de datos
+5- npm run dev
+6- levantar http://localhost:4000/graphql
+6- usar las mutaciones y querys del servidor graphql
